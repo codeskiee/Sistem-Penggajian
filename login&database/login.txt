@@ -1,0 +1,19 @@
+Sistem Penggajian
+
+Admin
+user: rian Saputra
+pas: 19220838
+
+user: meiranda
+pas: 19220798
+
+Staff
+
+user: steven wijaya
+pas: 19220792
+
+user: muhammad aziz fadillah 
+pas: 19220820
+
+user:Rihana
+pas:19220809
